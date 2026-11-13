@@ -8,6 +8,7 @@ jump_vy = 0;
 home_y = y;
 reaction_sounds = [snd_pou_toque, snd_pou_hablar, snd_pou_pregunta];
 emocion_nombres = ["Normal", "Feliz", "Serio", "Triste", "Hambriento", "Enfermo"];
+sprite_index = spr_pou_emociones;
 image_speed = 0;
 if (!variable_global_exists("pou_emocion")) global.pou_emocion = PouEmocion.Normal;
 /// @function cambiar_emocion(_emocion)

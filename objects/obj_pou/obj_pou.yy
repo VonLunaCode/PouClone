@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite37",
-    "path":"sprites/Sprite37/Sprite37.yy",
+    "name":"spr_pou_emociones",
+    "path":"sprites/spr_pou_emociones/spr_pou_emociones.yy",
   },
   "spriteMaskId":null,
   "visible":true,
