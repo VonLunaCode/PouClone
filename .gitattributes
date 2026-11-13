@@ -1,0 +1,7 @@
+* text=auto
+*.gml text eol=lf
+*.yy text eol=lf
+*.yyp text eol=lf
+*.md text eol=lf
+*.png binary
+*.wav binary
