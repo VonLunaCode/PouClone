@@ -13,6 +13,10 @@
     {
       "name": "inst_8486AD2F",
       "path": "rooms/rm_cocina/rm_cocina.yy"
+    },
+    {
+      "name": "inst_5C0C1A01",
+      "path": "rooms/rm_cocina/rm_cocina.yy"
     }
   ],
   "isDnd": false,
@@ -75,6 +79,33 @@
           "objectId": {
             "name": "obj_nav",
             "path": "objects/obj_nav/obj_nav.yy"
+          },
+          "properties": [],
+          "resourceType": "GMRInstance",
+          "resourceVersion": "2.0",
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "$GMRInstance": "v4",
+          "%Name": "inst_5C0C1A01",
+          "colour": 4294967295,
+          "frozen": false,
+          "hasCreationCode": false,
+          "ignore": false,
+          "imageIndex": 0,
+          "imageSpeed": 1.0,
+          "inheritCode": false,
+          "inheritedItemId": null,
+          "inheritItemSettings": false,
+          "isDnd": false,
+          "name": "inst_5C0C1A01",
+          "objectId": {
+            "name": "obj_cocina",
+            "path": "objects/obj_cocina/obj_cocina.yy"
           },
           "properties": [],
           "resourceType": "GMRInstance",

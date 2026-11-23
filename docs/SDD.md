@@ -1,6 +1,6 @@
 # SDD — PouClone (TI138 Desarrollo de Videojuegos)
 
-> Estado: **v0.4** (T01 hecha) · 2026-11-23 · Entrega: **3 de diciembre de 2026** (confirmada con la rúbrica del profesor).
+> Estado: **v0.5** (T01 hecha, T02 implementada sin probar en F5) · 2026-11-23 · Entrega: **3 de diciembre de 2026** (confirmada con la rúbrica del profesor).
 > Método: Spec-Driven Development. Cada tarea se implementa contra su criterio de aceptación y sólo se marca hecha con evidencia (F5 / validación MCP).
 
 ## 1. Contexto
@@ -66,7 +66,7 @@ Orden por peso e impacto: primero lo que más vale y menos riesgo tiene.
 | ID | Tarea | Criterio de aceptación | Peso | Propuesta |
 |----|-------|------------------------|------|-----------|
 | T01 ✅ | Verificar y reforzar **interacción**: clic en Pou da reacciones distintas (varias emociones/sonidos) | F5: 5 clics seguidos → reacciones visibles y con sonido, sin errores | 25 % | Christian |
-| T02 | **Alimentos** en cocina: selector de comida, arrastrar a Pou, comer | La comida desaparece al soltarla en Pou y él reacciona | 10 % (con T03, T04) | Christian |
+| T02 ⏳ | **Alimentos** en cocina: selector de comida, arrastrar a Pou, comer | La comida desaparece al soltarla en Pou y él reacciona | 10 % (con T03, T04) | Christian |
 | T03 | **Baño:** ducha, jabón, burbujas | Frotar con jabón crea burbujas; la ducha las quita; Pou queda limpio | idem | Christian |
 | T04 | **Ropa:** sombreros y lentes sobre Pou | Equipar/quitar; la prenda sigue a Pou entre cuartos | idem | Christian |
 | T05 | **Decorar** sala, cocina y baño | Cada cuarto con fondo y 3+ elementos propios | 20 % | Christian |
